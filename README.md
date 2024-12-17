@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mihir Mahakalkar, a senior product engineer at Altimetrik, and I've been working in tech since 2016.
+I'm Mihir Mahakalkar, a lead fullstack developer, and I've been working in tech since 2016.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/cryptospider937?style=social)](https://twitter.com/cryptospider937)
 [![Linkedin: mihirmahakalkar](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mihirmahakalkar/)](https://www.linkedin.com/in/mihirmahakalkar/)
