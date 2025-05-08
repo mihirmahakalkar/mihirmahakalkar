@@ -1,12 +1,22 @@
 ### Hi there 👋
 
-I'm Mihir Mahakalkar, a lead fullstack developer, and I've been working in tech since 2016.
+I'm Mihir Mahakalkar, a lead fullstack developer, working in tech since 2016.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/cryptospider937?style=social)](https://twitter.com/cryptospider937)
+<!--- [![Twitter Follow](https://img.shields.io/twitter/follow/cryptospider937?style=social)](https://twitter.com/cryptospider937) --->
 [![Linkedin: mihirmahakalkar](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mihirmahakalkar/)](https://www.linkedin.com/in/mihirmahakalkar/)
+
 ____
 
-## ⚡ Technologies
+### 📔 My Notes
+| Title  | URL |
+| ------------- | ------------- |
+| DSA (JavaScript) | https://master-notes.gitbook.io/dsa-javascript |
+| Grokking the Coding Interview Patterns in JS | https://master-notes.gitbook.io/grokking-the-coding-interview-patterns-in-js |
+| Backend Developer Career Path | https://master-notes.gitbook.io/backend-developer-career-path |
+
+____
+
+### ⚡ Technologies
 These are some of the technologies and tools that I work with:
 
 Backend: 
@@ -35,12 +45,20 @@ Tools:
 IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+____
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+--->
+  
+### 📫 How to reach me
+Whether it's a quick question, a collaboration idea, or just to say hi — I'm always open to connecting!
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mihirmahakalkar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihirmahakalkar/)
+
+<!---
 mihirmahakalkar/mihirmahakalkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
